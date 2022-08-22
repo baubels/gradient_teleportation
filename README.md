@@ -1,4 +1,4 @@
-I would like to *explicitely* mention that although I am implementing a paper, I have _no_ relation to any of its authors and would not like to take any credit for their work. If you are one of the authors, please let me know if there are any complaints.
+I would like to *explicitely* mention that although I have implemented the paper, I am _not_ related to any of the paper's authors.
 
 # Symmetry Teleportation for Accelerated Optimization
 
