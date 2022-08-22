@@ -17,4 +17,4 @@ The main advantage to using teleportation instead of simply having more epochs i
 ##### Further comments
 
 1) It would be nice knowing the effects of teleportation norm in relation to teleportation effectiveness - as well as which norm makes the most sense.
-2) What theoretical symmetries could be exploited for varying loss funcs?
+2) What theoretical symmetries could be exploited for varying loss functions?
