@@ -1,8 +1,6 @@
-I would like to *explicitely* mention that although I have implemented the paper, I am _not_ related to any of the paper's authors.
+# Symmetry Teleportation for Accelerated Optimization unofficial implementation
 
-# Symmetry Teleportation for Accelerated Optimization
-
-I implement* the https://arxiv.org/abs/2205.10637 paper (Symmetry Teleportation for Accelerated Optimization) in Tensorflow, and find fruitful results using a slightly alternate teleportation scheme in application with the Fashion-MNIST dataset. The image provided shows general (paper) training results as a result of teleportation for highly non-convex functions.
+I implement the https://arxiv.org/abs/2205.10637 paper (Symmetry Teleportation for Accelerated Optimization) in Tensorflow, and find fruitful results using a slightly alternate teleportation scheme in application with the Fashion-MNIST dataset. The image provided shows general (paper) training results as a result of teleportation for highly non-convex functions.
 
 
 ![ho ho ho ya filthy animal](fig2_frompaper.png)
