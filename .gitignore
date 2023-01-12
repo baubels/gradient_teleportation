@@ -1,0 +1,12 @@
+__pycache__/
+teleporting_gradients_gs.ipynb
+# autograd_tests.ipynb
+nets.py
+layers.py
+datasets.py
+activations.py
+losses.py
+actions.py
+showcase.ipynb
+
+teleport.py
